@@ -1,8 +1,8 @@
 # Project
-Final Project
+Final Project  
 
-This is a Stock Market charting app. 
-Technology: Springboot
+This is a Stock Market charting app.  
+Technology: Springboot  
 Database: mysql  
 
 
