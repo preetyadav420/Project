@@ -1,4 +1,4 @@
-# Project
+# Stock Market App
 Final Project  
 
 This is a Stock Market charting app.  
