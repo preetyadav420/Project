@@ -1,5 +1,5 @@
 # Stock Market App
-Final Project  
+Springboot Application  
 
 This is a Stock Market charting app.  
 Technology: Springboot  
